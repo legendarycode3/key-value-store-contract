@@ -5,6 +5,7 @@
 *  It eliminates the need for trusted third-party servers, guaranteeing data immutability, transparency, and automated retrieval across a blockchain network.
 
 ## 📌 Features
+* ****Key–Value Storage:****
 
 ## 🧠 Key Concepts Applied
 
