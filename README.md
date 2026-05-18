@@ -6,7 +6,7 @@
 
 ## 📌 Features
 * ****Deterministic Key Hashing:**** Each key is transformed into a fixed-size unique identifier.
-* ****Set Values (setValue):**** Allows anyone to input a string key and a string value. The
+* ****Set Values (setValue):**** Allows anyone to input a string key and a string value. The contract hashes the key using `keccak256` and maps it to the byte-encoded value.
 * ****Get Values (getValue):****
 * ****Delete Values (deleteValue):****
 * ****Key–Value Storage:**** The contract stores data using a Solidity mapping.
