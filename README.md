@@ -5,8 +5,8 @@
 *  It eliminates the need for trusted third-party servers, guaranteeing data immutability, transparency, and automated retrieval across a blockchain network.
 
 ## 📌 Features
-* ****Key–Value Storage:****
-* ****String-Based User Input:**** Users interact with the contract using human-readable strings
+* ****Key–Value Storage:**** The contract stores data using a Solidity mapping.
+* ****String-Based User Input:**** Users interact with the contract using human-readable strings.
 
 ## 🧠 Key Concepts Applied
 
