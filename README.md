@@ -1,7 +1,7 @@
 # 🔑 Key-Value Store Smart Contract
 
 ## Project Overview
-A key-value store smart contract which is a decentralized, on-chain database that maps unique
+* A key-value store smart contract which is a decentralized, on-chain database that maps unique identifiers `(keys)` to specific data `(values)`.
 
 ## 📌 Features
 
