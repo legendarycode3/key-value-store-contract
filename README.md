@@ -7,7 +7,7 @@
 ## 🧠 Key Concepts Applied
 
 ## 📂 Project Structure (Files)
-* ****`KeyValueStore.sol`****: The main contract implementing addStudent, editStudent and getStudentDetails functions.
+* ****`KeyValueStore.sol`****: The main contract implementing setValue(), deleteValue() and getValue getter functions.
 * ****`KeyValueStore.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## 🌐Technology Stack (Technologies Used)
