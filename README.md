@@ -8,7 +8,7 @@
 
 ## 📂 Project Structure (Files)
 * ****`KeyValueStore.sol`****:
-* ****`KeyValueStore.t.sol`****:
+* ****`KeyValueStore.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## 🌐Technology Stack (Technologies Used)
 
