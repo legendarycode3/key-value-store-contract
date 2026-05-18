@@ -6,6 +6,7 @@
 
 ## 📌 Features
 * ****Deterministic Key Hashing:**** Each key is transformed into a fixed-size unique identifier.
+* ****Set Values (setValue):****
 * ****Key–Value Storage:**** The contract stores data using a Solidity mapping.
 * ****Custom Errors:****  Instead of using the older require statements with string messages,it uses custom errors to save on deployment and execution gas costs.
 * ****Retrieval Functionality:**** Stored values can be fetched.
