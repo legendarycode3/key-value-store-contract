@@ -6,7 +6,7 @@
 
 ## 📌 Features
 * ****Key–Value Storage:****
-* ****String-Based User Input:****
+* ****String-Based User Input:**** Users interact with the contract using human-readable strings
 
 ## 🧠 Key Concepts Applied
 
