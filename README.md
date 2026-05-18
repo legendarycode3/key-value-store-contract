@@ -30,7 +30,9 @@
 
 ## Usage Guide (How to use - When using Remix IDE)
 
-### Why This Matters (Student Smart Contract)
+## Why This Matters (Student Smart Contract)
+
+## Security Considerations
 
 ## Foundry
 
