@@ -4,6 +4,7 @@
 
 ## 📌 Features
 
+## 🧠 Key Concepts Applied
 
 ## Foundry
 
