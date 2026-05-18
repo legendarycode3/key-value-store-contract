@@ -12,7 +12,7 @@
 * ****Event Emission:**** When data is stored, an event is emitted. Enables off-chain indexing, transaction activity tracking.
 * ****String-Based User Input:**** Users interact with the contract using human-readable strings.
 * ****Duplicate Key Protection:**** The contract prevents overwriting existing keys. It Ensures immutability of stored entries , prevents accidental replacement.
-* ****Private Storage Encapsulation:**** The mapping is declared `private`. Raw storage cannot be directly accessed externally
+* ****Private Storage Encapsulation:**** The mapping is declared `private`. Raw storage cannot be directly accessed externally, access only through contract functions.
 
 
 
