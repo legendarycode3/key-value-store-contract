@@ -7,8 +7,7 @@
 ## 📌 Features
 * ****Deterministic Key Hashing:**** Each key is transformed into a fixed-size unique identifier.
 * ****Key–Value Storage:**** The contract stores data using a Solidity mapping.
-* ****Custom Errors:****
-
+* ****Custom Errors:****  Instead of using the older require statements with string messages,
 * ****Retrieval Functionality:**** Stored values can be fetched.
 * ****Delete Functionality:**** Entries can be removed. verifies if the key exists, then deletes the stored bytes.
 * ****Event Logging:**** When data is stored, an event is emitted. Enables off-chain indexing, transaction activity tracking.
