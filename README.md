@@ -22,6 +22,7 @@
 ## 🧠 Key Concepts Applied
 * ****Mapping:****
 * ****Custom Error:****
+* ****Data types:****
 
 ## 📂 Project Structure (Files)
 * ****`KeyValueStore.sol`****: The main contract implementing setValue(), deleteValue() and getValue getter functions.
