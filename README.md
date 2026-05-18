@@ -11,6 +11,7 @@
 * ****`KeyValueStore.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## 🌐Technology Stack (Technologies Used)
+* ****[Solidity](https://www.soliditylang.org/)**** 
 
 ## Getting Started
 ### Prerequisites
