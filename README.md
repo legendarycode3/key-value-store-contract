@@ -36,6 +36,9 @@
 
 ### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
 1. Clone the repository:
+   ```shell
+      git clone https://github.com/legendarycode3/key-value-store-contract
+   ```
 
 ### Testing the contract (Using Foundry Development Kit )
 
