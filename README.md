@@ -8,7 +8,7 @@
 * ****Deterministic Key Hashing:**** Each key is transformed into a fixed-size unique identifier.
 * ****Key–Value Storage:**** The contract stores data using a Solidity mapping.
 * ****Retrieval Functionality:**** Stored values can be fetched.
-* ****Delete Functionality:**** Entries can be removed. erifies the key exists
+* ****Delete Functionality:**** Entries can be removed. verifies if the key exists, then deletes the stored bytes.
 * ****Event Emission:**** When data is stored, an event is emitted. Enables off-chain indexing, transaction activity tracking.
 * ****String-Based User Input:**** Users interact with the contract using human-readable strings.
 * ****Duplicate Key Protection:**** The contract prevents overwriting existing keys. It Ensures immutability of stored entries , prevents accidental replacement.
