@@ -39,6 +39,7 @@
    ```shell
       git clone https://github.com/legendarycode3/key-value-store-contract
    ```
+2. Navigate to the directory you created and cloned the file to:
 
 ### Testing the contract (Using Foundry Development Kit )
 
