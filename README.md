@@ -8,10 +8,9 @@
 * ****Deterministic Key Hashing:**** Each key is transformed into a fixed-size unique identifier.
 * ****Set Values (setValue):**** Allows anyone to input a string key and a string value. The contract hashes the key using `keccak256` and maps it to the byte-encoded value.
 * ****Get Values (getValue):**** Allows users to retrieve the original string value by inputting the corresponding string key.
-* ****Delete Values (deleteValue):****
+* ****Delete Values (deleteValue):**** Allows the original creator (or anyone, as no access
 * ****Key–Value Storage:**** The contract stores data using a Solidity mapping.
 * ****Custom Errors:****  Instead of using the older require statements with string messages,it uses custom errors to save on deployment and execution gas costs.
-* ****Retrieval Functionality:**** Stored values can be fetched.
 * ****Delete Functionality:**** Entries can be removed. verifies if the key exists, then deletes the stored bytes.
 * ****Event Logging:**** When data is stored, an event is emitted. Enables off-chain indexing, transaction activity tracking.
 * ****String-Based User Input:**** Users interact with the contract using human-readable strings.
