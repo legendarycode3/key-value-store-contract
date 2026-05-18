@@ -7,6 +7,7 @@
 ## 📌 Features
 * ****Deterministic Key Hashing:**** Each key is transformed into a fixed-size unique identifier.
 * ****Key–Value Storage:**** The contract stores data using a Solidity mapping.
+* ****Retrieval Functionality:****
 * ****String-Based User Input:**** Users interact with the contract using human-readable strings.
 * ****Duplicate Key Protection:**** The contract prevents overwriting existing keys. It Ensures immutability of stored entries , prevents accidental replacement.
 
