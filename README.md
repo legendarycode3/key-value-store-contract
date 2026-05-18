@@ -6,6 +6,7 @@
 
 ## 📌 Features
 * ****Key–Value Storage:****
+* ****String-Based User Input:****
 
 ## 🧠 Key Concepts Applied
 
