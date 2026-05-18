@@ -6,7 +6,7 @@
 
 ## 📌 Features
 * ****Deterministic Key Hashing:**** Each key is transformed into a fixed-size unique identifier.
-* ****Set Values (setValue):****
+* ****Set Values (setValue):**** Allows anyone to input a string key and a string value. The
 * ****Get Values (getValue):****
 * ****Delete Values (deleteValue):****
 * ****Key–Value Storage:**** The contract stores data using a Solidity mapping.
