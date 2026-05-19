@@ -86,7 +86,7 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
-* ****`setValue()
+* ****`setValue(string memory _key, string memory _value)`****:
 
 ### Variables:
 * ****`store`****: Core storage of the contract.
