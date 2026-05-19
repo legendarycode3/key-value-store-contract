@@ -26,7 +26,7 @@
 * ****bytes32 Data Type:**** A fixed-size 32-byte data type.
 * ****bytes Data Type:**** A dynamically-sized byte array.
 * ****String Data Type:**** Represents human-readable text.
-* ****Functions:****
+* ****Functions:**** Reusable blocks of smart contract logic.
 
 ## 📂 Project Structure (Files)
 * ****`KeyValueStore.sol`****: The main contract implementing setValue(), deleteValue() and getValue getter functions.
