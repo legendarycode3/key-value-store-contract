@@ -88,6 +88,7 @@ Runing specific test:
 ### Functions:
 
 ### Variables:
+* ****`store`****:
 
 ## Usage Guide (How to use - When using Remix IDE)
 
