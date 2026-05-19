@@ -95,7 +95,7 @@ Runing specific test:
 * ****`hashedKey`****:
 * ****`_key`****:
 * ****`_value`****:
-* ****`bytes(_value)`****:
+* ****`bytes(_value)`****: Encodes string into bytes.
 * ****`string(store[hashedKey])`****: Decodes bytes back to string.
 
 ## Usage Guide (How to use - When using Remix IDE)
