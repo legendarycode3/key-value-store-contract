@@ -23,7 +23,7 @@
 
 ## 🧠 Key Concepts Applied
 * ****Mapping:**** A Solidity key-value data structure.
-* ****Access Modifier(`private`):****
+* ****Access Modifier(`private`):**** Accessible only inside the contract.
 * ****State Variables:****
 * ****Custom Error:**** Gas-efficient error handling.
 * ****bytes32 Data Type:**** A fixed-size 32-byte data type.
