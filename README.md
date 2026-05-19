@@ -123,7 +123,7 @@ This approach optimizes on-chain storage and retrieval, offering several core be
 * ****Cost Efficiency:****
 * ****Optimized Storage:****
 * ****Scalability:****
-* ****Flexibility:**** They easily adapt to evolving datasets
+* ****Flexibility:**** They easily adapt to evolving datasets without requiring developers to
 
 ## Foundry
 
