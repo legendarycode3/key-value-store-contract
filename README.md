@@ -86,6 +86,7 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
+* ****`setValue()
 
 ### Variables:
 * ****`store`****: Core storage of the contract.
