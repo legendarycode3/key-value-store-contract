@@ -24,7 +24,7 @@
 ## 🧠 Key Concepts Applied
 * ****Mapping:**** A Solidity key-value data structure.
 * ****Access Modifier(`private`):**** Accessible only inside the contract.
-* ****State Variables:****
+* ****State Variables:**** Persistent blockchain storage variables.
 * ****Custom Error:**** Gas-efficient error handling.
 * ****bytes32 Data Type:**** A fixed-size 32-byte data type.
 * ****bytes Data Type:**** A dynamically-sized byte array.
