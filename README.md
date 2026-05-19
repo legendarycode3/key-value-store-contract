@@ -119,7 +119,8 @@ Here are the some reasons why they are essential:
 ## Core Benefits (Key-value store)
 In blockchain, a "key-value store" smart contract uses a basic dictionary structure (mapping unique keys to specific data values) to manage data. </br>
 This approach optimizes on-chain storage and retrieval, offering several core benefits:
-* ****High Performance & Speed::****
+* ****High Performance & Speed:****
+* ****Cost Efficiency:****
 
 ## Foundry
 
