@@ -102,8 +102,8 @@ Runing specific test:
 
 ## Why This Matters (Student Smart Contract)
 
-## Security Considerations
-* ****Access Control(Anyone Can Write/Delete)****
+## Security Considerations 
+* ****Access Control(Anyone Can Write/Delete)**** anyone can grief
 * ****No update logic:****
 * ****No Event on Deletion:**** Off-chain indexers cannot track state transitions properly.
 
