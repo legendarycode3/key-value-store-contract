@@ -23,7 +23,7 @@
 * ****Mapping:**** A Solidity key-value data structure.
 * ****Access Modifier(`private`):****
 * ****Custom Error:****
-* ****bytes32 Data Type:****
+* ****bytes32 Data Type:**** A fixed-size 32-byte data type.
 * ****Data types:****
 
 ## 📂 Project Structure (Files)
