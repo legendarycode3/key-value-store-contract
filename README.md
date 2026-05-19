@@ -88,7 +88,7 @@ Runing specific test:
 ### Functions:
 
 ### Variables:
-* ****`store`****:
+* ****`store`****: Core storage of the contract.
 
 ## Usage Guide (How to use - When using Remix IDE)
 
