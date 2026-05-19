@@ -107,7 +107,7 @@ Here are the some reasons why they are essential:
 * ****Efficient Data Lookups::****
 * ****Associative State Tracking:****
 * ****Scalable Data Structure::****
-* ****Modular Upgrades::**** Upgradable smart contract architectures often use a central
+* ****Modular Upgrades::**** Upgradable smart contract architectures often use a central KVS to hold all user data, allowing the contract's business logic to be replaced
 
 ## Security Considerations 
 * ****Access Control(Anyone Can Write/Delete)**** anyone can grief
