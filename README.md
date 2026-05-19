@@ -92,7 +92,7 @@ Runing specific test:
 
 ### Variables:
 * ****`store`****: Core storage of the contract.
-* ****`hashedKey`****:
+* ****`hashedKey`****: Converts string key into hash.
 * ****`_key`****: Human-readable key.
 * ****`_value`****: The Data to store.
 * ****`bytes(_value)`****: Encodes string into bytes.
