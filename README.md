@@ -24,7 +24,7 @@
 * ****Access Modifier(`private`):****
 * ****Custom Error:****
 * ****bytes32 Data Type:**** A fixed-size 32-byte data type.
-* ****bytes Data Type:****
+* ****bytes Data Type:**** A dynamically-sized byte array.
 
 ## 📂 Project Structure (Files)
 * ****`KeyValueStore.sol`****: The main contract implementing setValue(), deleteValue() and getValue getter functions.
