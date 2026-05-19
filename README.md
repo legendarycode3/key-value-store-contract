@@ -95,6 +95,7 @@ Runing specific test:
 * ****`hashedKey`****:
 * ****`_key`****:
 * ****`_value`****:
+* ****`bytes(_value)`****:
 
 ## Usage Guide (How to use - When using Remix IDE)
 
