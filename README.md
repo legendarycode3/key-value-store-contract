@@ -105,6 +105,7 @@ Key-Value Store (KVS) smart contracts matter because they are the blockchain's p
 
 Here are the some reasons why they are essential:
 * ****Efficient Data Lookups::****
+* ****Associative State Tracking:****
 
 ## Security Considerations 
 * ****Access Control(Anyone Can Write/Delete)**** anyone can grief
