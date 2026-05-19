@@ -27,7 +27,7 @@
 * ****bytes Data Type:**** A dynamically-sized byte array.
 * ****String Data Type:**** Represents human-readable text.
 * ****Functions:**** Reusable blocks of smart contract logic.
-* ****Events:****
+* ****Events:**** Blockchain logs for off-chain tracking.
 
 ## 📂 Project Structure (Files)
 * ****`KeyValueStore.sol`****: The main contract implementing setValue(), deleteValue() and getValue getter functions.
