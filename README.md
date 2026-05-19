@@ -122,7 +122,7 @@ This approach optimizes on-chain storage and retrieval, offering several core be
 * ****High Performance & Speed:****
 * ****Cost Efficiency:****
 * ****Optimized Storage:****
-* ****Scalability:****
+* ****Scalability:**** The simple and flat data architecture
 * ****Flexibility:**** They easily adapt to evolving datasets without requiring developers to completely restructure traditional row-and-column schemas.
 
 ## Foundry
