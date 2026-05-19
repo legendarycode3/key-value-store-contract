@@ -104,6 +104,7 @@ Runing specific test:
 Key-Value Store (KVS) smart contracts matter because they are the blockchain's primary mechanism for organizing and tracking dynamic user data efficiently at scale. </br>
 
 Here are the some reasons why they are essential:
+* ****Efficient Data Lookups::****
 
 ## Security Considerations 
 * ****Access Control(Anyone Can Write/Delete)**** anyone can grief
