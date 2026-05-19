@@ -116,7 +116,8 @@ Here are the some reasons why they are essential:
 * Missing explicit existence tracking.
 
 
-## Core Benefits (Key value store)
+## Core Benefits (Key-value store)
+In blockchain, a "key-value store" smart contract uses a basic dictionary structure
 
 ## Foundry
 
