@@ -16,6 +16,7 @@
 * ****String-Based User Input:**** Users interact with the contract using human-readable strings.
 * ****Duplicate Key Protection:**** The contract prevents overwriting existing keys. It Ensures immutability of stored entries , prevents accidental replacement.
 * ****Data Privacy:**** The mapping is declared `private`. Raw storage cannot be directly accessed externally, access only through contract functions.
+* ****Delete Keyword:****
 
 
 
