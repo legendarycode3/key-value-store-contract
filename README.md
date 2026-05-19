@@ -104,7 +104,7 @@ Runing specific test:
 Key-Value Store (KVS) smart contracts matter because they are the blockchain's primary mechanism for organizing and tracking dynamic user data efficiently at scale. </br>
 
 Here are the some reasons why they are essential:
-* ****Efficient Data Lookups::****
+* ****Efficient Data Lookups::****  Instead of searching through a massive list of thousands
 * ****Associative State Tracking:**** They are crucial for assigning balances or ownership to specific addresses. For example, a KVS matches a user's wallet address (the key) to their token balance or digital asset IDs (the value).
 * ****Scalable Data Structure::**** Because EVM storage uses a hashed location calculation (keccak256) to find data, developers do not need to know the entire size of the dataset in advance. This allows the contract to store theoretically limitless,independent entries.
 * ****Modular Upgrades::**** Upgradable smart contract architectures often use a central KVS to hold all user data, allowing the contract's business logic to be replaced without losing state history.
