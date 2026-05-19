@@ -104,7 +104,7 @@ Runing specific test:
 
 ## Security Considerations
 * ****No Access Control(Anyone Can Write/Delete)****
-* ***No Event on Deletion:****
+* ****No Event on Deletion:**** Off-chain indexers cannot track state transitions properly.
 
 ## Foundry
 
