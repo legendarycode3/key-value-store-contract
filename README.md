@@ -96,6 +96,7 @@ Runing specific test:
 * ****`_key`****:
 * ****`_value`****:
 * ****`bytes(_value)`****:
+* ****`string(store[hashedKey])`****:
 
 ## Usage Guide (How to use - When using Remix IDE)
 
