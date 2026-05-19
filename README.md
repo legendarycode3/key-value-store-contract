@@ -22,7 +22,8 @@
 ## 🧠 Key Concepts Applied
 * ****Mapping:**** A Solidity key-value data structure.
 * ****Access Modifier(`private`):****
-* ****Custom Error:**** 
+* ****Custom Error:****
+* ****bytes32 Data Type:****
 * ****Data types:****
 
 ## 📂 Project Structure (Files)
