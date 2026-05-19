@@ -115,6 +115,9 @@ Here are the some reasons why they are essential:
 * ****No Event on Deletion:**** Off-chain indexers cannot track state transitions properly.
 * Missing explicit existence tracking.
 
+
+## Core Benefits
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
