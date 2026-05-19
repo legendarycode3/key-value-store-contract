@@ -94,6 +94,7 @@ Runing specific test:
 * ****`store`****: Core storage of the contract.
 * ****`hashedKey`****:
 * ****`_key`****:
+* ****`_value`****:
 
 ## Usage Guide (How to use - When using Remix IDE)
 
