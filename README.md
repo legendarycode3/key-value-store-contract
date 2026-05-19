@@ -50,7 +50,7 @@
 * `Remix IDE` or `Foundry Development Kit`
 
 ### Recommendation (For Beginners)
-****NOTE (Use Remix IDE, for quick prototyping):**** You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building.
+****NOTE (Use Remix IDE, for quick prototyping):**** You can literally just copy the main contract source code and paste it on Remix IDE and learn along side how the code works while trying to build yours as you keep building. 
 
 
 ## Usage
@@ -101,7 +101,7 @@ Runing specific test:
 ## Usage Guide (How to use - When using Remix IDE)
 
 ## Why This Matters (Key Value Store Smart Contract)
-Key-Value Store (KVS) smart contracts 
+Key-Value Store (KVS) smart contracts matter because they are the blockchain's primary mechanism for organizing and tracking dynamic user data
 
 ## Security Considerations 
 * ****Access Control(Anyone Can Write/Delete)**** anyone can grief
