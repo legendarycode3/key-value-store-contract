@@ -104,7 +104,7 @@ Runing specific test:
 
 ## Security Considerations 
 * ****Access Control(Anyone Can Write/Delete)**** anyone can grief
-* ****No update logic:****
+* ****No update logic:**** keys become permanently locked.
 * ****No Event on Deletion:**** Off-chain indexers cannot track state transitions properly.
 
 ## Foundry
