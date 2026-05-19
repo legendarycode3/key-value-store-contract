@@ -17,6 +17,7 @@
 * ****Duplicate Key Protection:**** The contract prevents overwriting existing keys. It Ensures immutability of stored entries , prevents accidental replacement.
 * ****Data Privacy:**** The mapping is declared `private`. Raw storage cannot be directly accessed externally, access only through contract functions.
 * ****Delete Keyword:**** Removes data from blockchain storage.
+* ****Type Casting:****
 
 
 
