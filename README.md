@@ -88,7 +88,7 @@ Runing specific test:
 ### Functions:
 * ****`setValue(string memory _key, string memory _value)`****: Stores a new key–value pair in the contract.
 * ****`deleteValue(string memory _key)`****:
-* ****`getValue()`****:
+* ****`getValue(string memory _key)`****: Retrieves a stored value from the contract.
 
 ### Variables:
 * ****`store`****: Core storage of the contract.
