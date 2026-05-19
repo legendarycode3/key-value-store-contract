@@ -107,6 +107,7 @@ Here are the some reasons why they are essential:
 * ****Efficient Data Lookups::****
 * ****Associative State Tracking:****
 * ****Scalable Data Structure::****
+* ****Modular Upgrades::****
 
 ## Security Considerations 
 * ****Access Control(Anyone Can Write/Delete)**** anyone can grief
