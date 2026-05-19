@@ -20,7 +20,7 @@
 
 
 ## 🧠 Key Concepts Applied
-* ****Mapping:****
+* ****Mapping:**** A Solidity key-value data structure.
 * ****Custom Error:****
 * ****Data types:****
 
