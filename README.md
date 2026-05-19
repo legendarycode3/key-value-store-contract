@@ -104,6 +104,7 @@ Runing specific test:
 
 ## Security Considerations
 * ****No Access Control(Anyone Can Write/Delete)****
+* ***No Event on Deletion:****
 
 ## Foundry
 
