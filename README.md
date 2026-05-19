@@ -101,6 +101,7 @@ Runing specific test:
 ## Usage Guide (How to use - When using Remix IDE)
 
 ## Why This Matters (Key Value Store Smart Contract)
+Key-Value Store (KVS) smart contracts 
 
 ## Security Considerations 
 * ****Access Control(Anyone Can Write/Delete)**** anyone can grief
