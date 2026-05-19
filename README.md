@@ -121,7 +121,7 @@ In blockchain, a "key-value store" smart contract uses a basic dictionary struct
 This approach optimizes on-chain storage and retrieval, offering several core benefits:
 * ****High Performance & Speed:****
 * ****Cost Efficiency:****
-* ****Optimized Storage:**** They eliminate the need for
+* ****Optimized Storage:**** They eliminate the need for  empty database fields or "null"
 * ****Scalability:**** The simple and flat data architecture allows decentralized applications (dApps) to scale linearly as user bases and transaction volumes grow.
 * ****Flexibility:**** They easily adapt to evolving datasets without requiring developers to completely restructure traditional row-and-column schemas.
 
