@@ -103,7 +103,8 @@ Runing specific test:
 ## Why This Matters (Student Smart Contract)
 
 ## Security Considerations
-* ****No Access Control(Anyone Can Write/Delete)****
+* ****Access Control(Anyone Can Write/Delete)****
+* ****No update logic:****
 * ****No Event on Deletion:**** Off-chain indexers cannot track state transitions properly.
 
 ## Foundry
