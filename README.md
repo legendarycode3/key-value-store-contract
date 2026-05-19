@@ -106,6 +106,7 @@ Runing specific test:
 * ****Access Control(Anyone Can Write/Delete)**** anyone can grief
 * ****No update logic:**** keys become permanently locked.
 * ****No Event on Deletion:**** Off-chain indexers cannot track state transitions properly.
+* Missing explicit existence tracking.
 
 ## Foundry
 
