@@ -121,6 +121,7 @@ In blockchain, a "key-value store" smart contract uses a basic dictionary struct
 This approach optimizes on-chain storage and retrieval, offering several core benefits:
 * ****High Performance & Speed:****
 * ****Cost Efficiency:****
+* ****Optimized Storage:****
 
 ## Foundry
 
