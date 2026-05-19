@@ -116,7 +116,7 @@ Here are the some reasons why they are essential:
 * Missing explicit existence tracking.
 
 
-## Core Benefits
+## Core Benefits (Key value store)
 
 ## Foundry
 
