@@ -98,7 +98,7 @@ Runing specific test:
 * ****`bytes(_value)`****: Encodes string into bytes.
 * ****`string(store[hashedKey])`****: Decodes bytes back to string.
 
-## Usage Guide (How to works - When using Remix IDE)
+## Usage Guide (How to works - When using Remix IDE  by interacting with the deployed contract)
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:**** Deploy contract
 
