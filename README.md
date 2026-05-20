@@ -137,6 +137,7 @@ Here are the some reasons why they are essential:
 * ****Domain Name Services (DNS):****
 * ****Supply Chain & Asset Provenance:****
 * ****Dynamic Access Control:****
+* ****Asset Tracking:*****
 
 
 
