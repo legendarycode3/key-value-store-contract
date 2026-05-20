@@ -124,7 +124,7 @@ Here are the some reasons why they are essential:
 * ****Token Balances:**** Mapping user wallet addresses (key)  to their current ERC-20 or token balance (value).
 * ****Stablecoin Collateralization:**** Mapping stablecoin amounts  to their corresponding crypto-backing reserves.
 * ****In-Game Asset Ownership:**** Mapping unique item IDs (key) to their owner's wallet address or metadata (value).
-* ****Dynamic NFTs:**** Updating NFT metadata (e.g., evolving a digital pet's traits) by
+* ****Dynamic NFTs:**** Updating NFT metadata (e.g., evolving a digital pet's traits) by pointing an NFT token ID (key)
 
 
 
