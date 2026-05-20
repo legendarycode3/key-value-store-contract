@@ -100,6 +100,13 @@ Runing specific test:
 
 ## Usage Guide (How to use - When using Remix IDE)
 
+## Security Considerations 
+* ****Access Control(Anyone Can Write/Delete)**** anyone can grief
+* ****No update logic:**** keys become permanently locked.
+* ****No Event on Deletion:**** Off-chain indexers cannot track state transitions properly.
+* Missing explicit existence tracking.
+
+
 ## Why This Matters (Key Value Store Smart Contract)
 Key-Value Store (KVS) smart contracts matter because they are the blockchain's primary mechanism for organizing and tracking dynamic user data efficiently at scale. </br>
 
@@ -109,11 +116,6 @@ Here are the some reasons why they are essential:
 * ****Scalable Data Structure::**** Because EVM storage uses a hashed location calculation (keccak256) to find data, developers do not need to know the entire size of the dataset in advance. This allows the contract to store theoretically limitless,independent entries.
 * ****Modular Upgrades::**** Upgradable smart contract architectures often use a central KVS to hold all user data, allowing the contract's business logic to be replaced without losing state history.
 
-## Security Considerations 
-* ****Access Control(Anyone Can Write/Delete)**** anyone can grief
-* ****No update logic:**** keys become permanently locked.
-* ****No Event on Deletion:**** Off-chain indexers cannot track state transitions properly.
-* Missing explicit existence tracking.
 
 ## Key Use Cases of `Key-Value Store` Smart Contracts
 
