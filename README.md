@@ -99,7 +99,7 @@ Runing specific test:
 * ****`string(store[hashedKey])`****: Decodes bytes back to string.
 
 ## Usage Guide (How to use - When using Remix IDE)
-1. ****Compile:****
+1. ****Compile:**** Compile the contract.
 
 ## Security Considerations 
 * ****Access Control(Anyone Can Write/Delete)**** anyone can grief
