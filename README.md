@@ -127,6 +127,7 @@ Here are the some reasons why they are essential:
 * ****Dynamic NFTs:**** Updating NFT metadata (e.g., evolving a digital pet's traits) by pointing an NFT token ID (key) to a new attributes dictionary (value).
 * ****Decentralized Exchanges (DEXs):****  Storing order book liquidity, user pools, and swap ratios for fast pool lookups.
 * ****Staking & Reward Tracking:**** Mapping user wallet addresses to staked token amounts and the block timestamp  of their last reward claim.
+* ****Proposal Tracking:****
 
 
 
