@@ -132,7 +132,7 @@ Here are the some reasons why they are essential:
 * ****Oracle Price Feeds:**** Recording the latest asset price index (e.g., ETH/USD: 3850) for smart contracts to consume.
 * ****DID Mapping:****  Resolving Decentralized Identifiers  (DIDs) to public cryptographic keys  or profile URIs.
 * ****Portfolio Tracking:**** Storing real-time token balances and dynamic wallet lists.
-* ****Inventory Management:**** Monitoring the physical or 
+* ****Inventory Management:**** Monitoring the physical or digital stock levels of specific items.
 
 
 
