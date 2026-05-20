@@ -121,7 +121,7 @@ Here are the some reasons why they are essential:
 * ****On-Chain Voting:**** Stores each voter's public address (the key) paired with their chosen candidate's ID (the value) to ensure transparent tallying and individual vote verification.
 * ****Decentralized Finance (DeFi) Allowances:**** Records wallet addresses (keys) and the specific token amounts or spending allowances (values) they are permitted to trade transfer, such as in standard ERC-20 token approvals.
 * ****Escrow Services:****  Temporarily links an order  or transaction ID (key) to its specific escrow terms, locked funds, and involved party details (values) until predefined delivery conditions are met.
-* ****Token Balances:**** Mapping user wallet addresses (key)
+* ****Token Balances:**** Mapping user wallet addresses (key)  to their current ERC-20
 
 
 
