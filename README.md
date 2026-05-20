@@ -126,6 +126,7 @@ Here are the some reasons why they are essential:
 * ****In-Game Asset Ownership:**** Mapping unique item IDs (key) to their owner's wallet address or metadata (value).
 * ****Dynamic NFTs:**** Updating NFT metadata (e.g., evolving a digital pet's traits) by pointing an NFT token ID (key) to a new attributes dictionary (value).
 * ****Decentralized Exchanges (DEXs):****  Storing order book liquidity, user pools, and swap ratios for fast pool lookups.
+* ****Staking & Reward Tracking:****
 
 
 
