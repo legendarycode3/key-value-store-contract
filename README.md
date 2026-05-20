@@ -136,6 +136,7 @@ Here are the some reasons why they are essential:
 * ****Interest & Yield Farming:**** Tracking active yield metrics, accrued interest, and staking pool lock-up durations.
 * ****Domain Name Services (DNS):****
 * ****Supply Chain & Asset Provenance:****
+* ****Dynamic Access Control:****
 
 
 
