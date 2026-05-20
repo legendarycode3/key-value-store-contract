@@ -134,7 +134,7 @@ Here are the some reasons why they are essential:
 * ****Portfolio Tracking:**** Storing real-time token balances and dynamic wallet lists.
 * ****Inventory Management:**** Monitoring the physical or digital stock levels of specific items.
 * ****Interest & Yield Farming:**** Tracking active yield metrics, accrued interest, and staking pool lock-up durations.
-* ****Domain Name Services (DNS):**** Functions similarly to systems like the Ethereum Name Service (ENS), where human-readable  domain names (keys) are paired with the corresponding
+* ****Domain Name Services (DNS):**** Functions similarly to systems like the Ethereum Name Service (ENS), where human-readable  domain names (keys) are paired with the corresponding destination machine-readable
 * ****Supply Chain & Asset Provenance:**** Pairs an item's  unique serial number or batch ID (key) with its current location, temperature, or ownership status (values) to provide immutable tracking.
 * ****Dynamic Access Control:**** Manages permissions by pairing user  or admin roles (keys) with their corresponding access rights (values) to govern who can modify specific decentralized autonomous organization (DAO) parameters.
 * ****Asset Tracking:***** Maps unique asset IDs  (e.g., weapon or land parcel) to their respective  owner addresses or in-game attributes,  powering secure player-owned economies.
