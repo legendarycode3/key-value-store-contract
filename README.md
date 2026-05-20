@@ -118,6 +118,7 @@ Here are the some reasons why they are essential:
 
 
 ## Key Use Cases of `Key-Value Store` Smart Contracts
+* ****On-Chain Voting:****
 
 
 ## Core Benefits (Key-value store)
