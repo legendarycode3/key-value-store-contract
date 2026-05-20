@@ -100,6 +100,7 @@ Runing specific test:
 
 ## Usage Guide (How to use - When using Remix IDE)
 1. ****Compile:**** Compile the contract.
+2. ****Deployment:****
 
 ## Security Considerations 
 * ****Access Control(Anyone Can Write/Delete)**** anyone can grief
