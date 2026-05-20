@@ -115,6 +115,8 @@ Here are the some reasons why they are essential:
 * ****No Event on Deletion:**** Off-chain indexers cannot track state transitions properly.
 * Missing explicit existence tracking.
 
+## Key Use Cases of `Key-Value Store` Smart Contracts
+
 
 ## Core Benefits (Key-value store)
 In blockchain, a "key-value store" smart contract uses a basic dictionary structure (mapping unique keys to specific data values) to manage data. </br>
