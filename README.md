@@ -133,7 +133,7 @@ Here are the some reasons why they are essential:
 * ****DID Mapping:****  Resolving Decentralized Identifiers  (DIDs) to public cryptographic keys  or profile URIs.
 * ****Portfolio Tracking:**** Storing real-time token balances and dynamic wallet lists.
 * ****Inventory Management:**** Monitoring the physical or digital stock levels of specific items.
-* ****Interest & Yield Farming:****
+* ****Interest & Yield Farming:**** Tracking active yield metrics,
 
 
 
