@@ -125,6 +125,7 @@ Here are the some reasons why they are essential:
 * ****Stablecoin Collateralization:**** Mapping stablecoin amounts  to their corresponding crypto-backing reserves.
 * ****In-Game Asset Ownership:**** Mapping unique item IDs (key) to their owner's wallet address or metadata (value).
 * ****Dynamic NFTs:**** Updating NFT metadata (e.g., evolving a digital pet's traits) by pointing an NFT token ID (key) to a new attributes dictionary (value).
+* ****Decentralized Exchanges (DEXs):****
 
 
 
