@@ -129,7 +129,7 @@ Here are the some reasons why they are essential:
 * ****Staking & Reward Tracking:**** Mapping user wallet addresses to staked token amounts and the block timestamp  of their last reward claim.
 * ****Proposal Tracking:**** Mapping a unique proposal ID to its current voting state (Active, Passed, Defeated) and IPFS hash of the proposal description.
 * ****Username Registry:**** Storing immutable associations  between a human-readable name(key) and a blockchain wallet address (value).
-* ****DID Mapping:****
+* ****DID Mapping:****  Resolving Decentralized Identifiers
 
 
 
